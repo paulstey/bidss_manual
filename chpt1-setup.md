@@ -74,6 +74,48 @@ _Note: Make sure you are on the VPN before trying to SSH to the server._
 10. We will be learning more about pbcbiedcit, but for now type logout or exit
 
 
+## SFTP Client
+ 
+The SSH File Transfer Protocol (also Secure File Transfer Protocol, Secure FTP, or SFTP) is a network protocol that provides file access, file transfer, and file management functionalities over any reliable data stream<sup>[5](#footnote5)</sup>.
+ 
+SFTP clients either provide a command-line interface such as the Terminal program on Mac or a graphical user interface (GUI) such as FileZilla that works with both Windows and Mac<sup>[6](#footnote6)</sup>.
+ 
+1. Check if you already have a GUI-based SFTP client installed. If not, follow the instructions below for installing FileZilla, an open-source SFTP client
+2. Download and install FileZilla Client
+https://filezilla-project.org/
+3. Open FileZilla and specify the following at the top:
+    1. Host = `pbcbiedcit.services.brown.edu`
+    2. Username = `<your Brown netid>`
+    3. Password = `<your Brown password>`
+    4. Port = `22`
+4. Click “Quickconnect”
+5. Once logged in, you should see a list of folders that are in your `pbcbiedcit` account – more about this later, for now click the “x” icon at the top to disconnect from the server.
+
+_Note: Make sure you are on the VPN before trying to SFTP to the server._
+
+
+## Text Editor
+ 
+A text editor is a type of program used for editing plain text files<sup>[7](#footnote7)</sup>. Text editors are often provided with operating systems or software development packages, and can be used to change configuration files and programming language source code.
+ 
+You likely already have a text editor installed on your machine (e.g., Notepad on Windows or TextEdit on Mac). Due to the variation in text editors, we will use __vim__<sup>[8](#footnote8)</sup> on `pbcbiedcit` and __Atom__<sup>[9](#footnote9)</sup> on your local machine (more about Atom later).
+
+
+## Web Browser 
+
+Given the variation in Web browsers, Google Chrome should be used for this course. If you do not have Google Chrome installed, please [download and install it from here](https://www.google.com/chrome/).
+
+
+## IMPORTANT NOTES
+
+1. Protect your files and directories on `pbcbiedcit.services.brown.edu`
+    1. Multi-user environment
+    2. Set permissions to restrict read, write, and execute access as necessary
+2. __NO__ Protected Health information (PHI) or other sensitive information on `pbcbiedcit.services.brown.edu`
+    1. Not HIPAA-compliant (Health Insurance Portability and Accountability Act)
+    2. __Do not__ put clinical or other data that include PHI
+    3. _For this class, we will use publicly accessible data or simulate data as needed_
+
 ___
 
 <a name="footnote1">1</a>: https://en.wikipedia.org/wiki/Secure_Shell
@@ -83,3 +125,14 @@ ___
 <a name="footnote3">3</a>: https://en.wikipedia.org/wiki/Terminal_(macOS)
 
 <a name="footnote4">4</a>: https://en.wikipedia.org/wiki/PuTTY
+
+<a name="footnote5">5</a>: https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
+
+<a name="footnote6">6</a>: https://en.wikipedia.org/wiki/FileZilla
+
+<a name="footnote7">7</a>: https://en.wikipedia.org/wiki/Text_editor
+
+<a name="footnote8">8</a>: https://en.wikipedia.org/wiki/Vi
+
+<a name="footnote9">9</a>: https://en.wikipedia.org/wiki/Atom_(text_editor)
+
