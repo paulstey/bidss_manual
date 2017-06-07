@@ -6,25 +6,25 @@ For this course, computing will initially be done on an education server (`pbcbi
 
 Brown's Virtual Private Network (VPN) connects you to Brown's network when you are off campus. You might use VPN to access campus-only resources like library resources or keyed software, or you might just want to secure your internet traffic when you are on public or untrusted WiFi.
 
-- [Enable Two-Step Verification for your Brown Account](https://ithelp.brown.edu/kb/articles/445-enable-two-step-verification-for-your-brown-account)
-- Install the [VPN F5 Desktop Client](https://www.brown.edu/information-technology/software/catalog/vpn-f5-desktop-client)
-- Open F5 and connect to the Brown VPN (see screen shots below).
+1. [Enable Two-Step Verification for your Brown Account](https://ithelp.brown.edu/kb/articles/445-enable-two-step-verification-for-your-brown-account)
+2. Install the [VPN F5 Desktop Client](https://www.brown.edu/information-technology/software/catalog/vpn-f5-desktop-client)
+3. Open F5 and connect to the Brown VPN (see screen shots below).
 
-1. Open F5
+	1. Open F5
 
-	![f5a](/images/f5a.png)
+		![f5a](/images/f5a.png)
 
-2. Enter your Brown credentials
+	2. Enter your Brown credentials
 
-	![f5b](/images/f5b.png)
+		![f5b](/images/f5b.png)
 
-3. Select two-factor authentication method
+	3. Select two-factor authentication method
 
-	![f5c](/images/f5c.png)
+		![f5c](/images/f5c.png)
 
-4. After completing two-factor authentication, you will be connected to the VPN
+	4. After completing two-factor authentication, you will be connected to the VPN
 
-	![f5d](/images/f5d.png)
+		![f5d](/images/f5d.png)
 
 
 ## SSH Client
