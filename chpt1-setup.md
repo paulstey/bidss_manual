@@ -8,10 +8,22 @@ Brown's Virtual Private Network (VPN) connects you to Brown's network when you a
 
 - [Enable Two-Step Verification for your Brown Account](https://ithelp.brown.edu/kb/articles/445-enable-two-step-verification-for-your-brown-account)
 - Install the [VPN F5 Desktop Client](https://www.brown.edu/information-technology/software/catalog/vpn-f5-desktop-client)
-- Open F5 and connect to the Brown VPN
+- Open F5 and connect to the Brown VPN (see screen shots below).
+
+Open F5
+
 ![f5a](/images/f5a.png)
+
+Enter your Brown credentials
+
 ![f5b](/images/f5b.png)
+
+Select two-factor authentication method
+
 ![f5c](/images/f5c.png)
+
+After completing two-factor authentication, you're connected to the VPN
+
 ![f5d](/images/f5d.png)
 
 
