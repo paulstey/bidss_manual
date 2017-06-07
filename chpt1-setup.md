@@ -12,19 +12,19 @@ Brown's Virtual Private Network (VPN) connects you to Brown's network when you a
 
 1. Open F5
 
-	- ![f5a](/images/f5a.png)
+	![f5a](/images/f5a.png)
 
 2. Enter your Brown credentials
 
-	- ![f5b](/images/f5b.png)
+	![f5b](/images/f5b.png)
 
 3. Select two-factor authentication method
 
-	- ![f5c](/images/f5c.png)
+	![f5c](/images/f5c.png)
 
 4. After completing two-factor authentication, you're connected to the VPN
 
-	- ![f5d](/images/f5d.png)
+	![f5d](/images/f5d.png)
 
 
 ## SSH Client
