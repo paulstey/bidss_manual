@@ -45,8 +45,8 @@ _Note: Make sure you are on the VPN before trying to SSH to the server._
 1. If you don’t have openssh installed: 
     1. Start PowerShell as an administrator (after finding PowerShell from Cortana, right click and select “Run as Administrator”
     2. (If you haven’t set execution policy), Type: `Set-ExecutionPolicy Unrestricted`
-    3. (If you don’t already have it), Install Chocolately: https://chocolatey.org/install)
-    `iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
+    3. (If you don’t already have it), Install Chocolately: https://chocolatey.org/install
+        - `iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
     4. Type: `choco install openssh`
     5. Type: `notepad $profile` (if prompted to create new file, select yes)
         1. Add following line to $profile file: `$env:TERM = ‘xterm’`
@@ -73,7 +73,13 @@ _Note: Make sure you are on the VPN before trying to SSH to the server._
 9. You are now logged on to pbcbiedcit! Type ls to see what happens.
 10. We will be learning more about pbcbiedcit, but for now type logout or exit
 
+
+___
+
 <a name="footnote1">1</a>: https://en.wikipedia.org/wiki/Secure_Shell
+
 <a name="footnote2">2</a>: https://en.wikipedia.org/wiki/Comparison_of_SSH_clients
+
 <a name="footnote3">3</a>: https://en.wikipedia.org/wiki/Terminal_(macOS)
+
 <a name="footnote4">4</a>: https://en.wikipedia.org/wiki/PuTTY
