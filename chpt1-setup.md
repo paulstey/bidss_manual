@@ -10,21 +10,21 @@ Brown's Virtual Private Network (VPN) connects you to Brown's network when you a
 - Install the [VPN F5 Desktop Client](https://www.brown.edu/information-technology/software/catalog/vpn-f5-desktop-client)
 - Open F5 and connect to the Brown VPN (see screen shots below).
 
-Open F5
+1. Open F5
 
-![f5a](/images/f5a.png)
+	- ![f5a](/images/f5a.png)
 
-Enter your Brown credentials
+2. Enter your Brown credentials
 
-![f5b](/images/f5b.png)
+	- ![f5b](/images/f5b.png)
 
-Select two-factor authentication method
+3. Select two-factor authentication method
 
-![f5c](/images/f5c.png)
+	- ![f5c](/images/f5c.png)
 
-After completing two-factor authentication, you're connected to the VPN
+4. After completing two-factor authentication, you're connected to the VPN
 
-![f5d](/images/f5d.png)
+	- ![f5d](/images/f5d.png)
 
 
 ## SSH Client
