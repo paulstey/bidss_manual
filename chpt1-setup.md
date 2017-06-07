@@ -22,12 +22,18 @@ Brown's Virtual Private Network (VPN) connects you to Brown's network when you a
 
 	![f5c](/images/f5c.png)
 
-4. After completing two-factor authentication, you're connected to the VPN
+4. After completing two-factor authentication, you will be connected to the VPN
 
 	![f5d](/images/f5d.png)
 
 
 ## SSH Client
-Secure Shell (SSH) is a cryptographic network protocol for secure data communication, remote shell services or command execution and other secure network services between two networked computers that connects, via a secure channel over an insecure network, a server and a client (running SSH server and SSH client programs, respectively). An SSH client is a software program that uses the secure shell protocol to connect to a remote computer.
+Secure Shell (SSH) is a cryptographic network protocol for secure data communication, remote shell services or command execution and other secure network services between two networked computers that connects, via a secure channel over an insecure network, a server and a client (running SSH server and SSH client programs, respectively)<sup>[1](#footnote1)</sup>. An SSH client is a software program that uses the secure shell protocol to connect to a remote computer.
 
 _Note: Make sure you are on the VPN before trying to SSH to the server._
+
+
+
+
+
+<a name="footnote1">1</a>: https://en.wikipedia.org/wiki/Secure_Shell
